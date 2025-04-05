@@ -24,7 +24,7 @@ J.A.R.V.I.S. is an AI-powered personal assistant designed to perform a variety o
 
 ### Frontend
 - React (Next.js)
-- [Tailwind CSS](https://tailwindcss.com/)
+- Tailwind CSS
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Backend
