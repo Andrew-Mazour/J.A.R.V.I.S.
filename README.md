@@ -28,7 +28,7 @@ J.A.R.V.I.S. is an AI-powered personal assistant designed to perform a variety o
 - TypeScript
 
 ### Backend
-- [FastAPI](https://fastapi.tiangolo.com/)
+- FastAPI
 - [Python](https://www.python.org/)
 - [Node.js](https://nodejs.org/)
 
