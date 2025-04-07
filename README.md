@@ -30,7 +30,7 @@ J.A.R.V.I.S. is an AI-powered personal assistant designed to perform a variety o
 ### Backend
 - FastAPI
 - Python
-- [Node.js
+- Node.js
 
 ### Desktop Integration
 - [Electron.js](https://www.electronjs.org/) for cross-platform desktop support
