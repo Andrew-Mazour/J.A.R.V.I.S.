@@ -51,7 +51,7 @@ J.A.R.V.I.S. is an AI-powered personal assistant designed to perform a variety o
 
 ---
 
-## 🔧 Installation (Coming Soon)
+
 
 > Instructions for local installation and setup will be added in a future update.
 
