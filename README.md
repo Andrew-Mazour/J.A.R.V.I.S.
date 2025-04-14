@@ -33,7 +33,7 @@ J.A.R.V.I.S. is an AI-powered personal assistant designed to perform a variety o
 - Node.js
 
 ### Desktop Integration
-- [Electron.js](https://www.electronjs.org/
+
 
 ---
 
