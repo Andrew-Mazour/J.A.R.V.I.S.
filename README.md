@@ -43,11 +43,6 @@ J.A.R.V.I.S. is an AI-powered personal assistant designed to perform a variety o
 - ✅ Spotify control (playback + queueing)
 - ✅ Real-time UI response to natural language input
 
----
-
-## 📸 UI Preview
-
-> _[Insert a screenshot or screen recording of the app in action here]_
 
 ---
 
