@@ -32,7 +32,7 @@ J.A.R.V.I.S. is an AI-powered personal assistant designed to perform a variety o
 - Python
 - Node.js
 
-### Desktop Integration
+###
 
 
 ---
