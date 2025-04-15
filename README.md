@@ -59,9 +59,3 @@ J.A.R.V.I.S. is an AI-powered personal assistant designed to perform a variety o
 
 ## 🤝 Contributions
 
-
-
-## ✉️ Contact
-
-Created by [Andrew Mazour](https://github.com/Andrew-Mazour).  
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/andrew-mazour) or email at amazour@uwaterloo.ca.
